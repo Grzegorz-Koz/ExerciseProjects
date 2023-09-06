@@ -1,6 +1,6 @@
 ﻿namespace ProjectShop
 {
-    internal class Program
+    internal class ProjectShopProgram
     {
         static void Main(string[] args)
         {

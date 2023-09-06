@@ -1,6 +1,6 @@
-﻿namespace ProjectWebsite
+﻿namespace ProjectSportGim
 {
-    internal class Program
+    internal class ProjectSportGimProgram
     {
         static void Main(string[] args)
         {
